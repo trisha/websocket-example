@@ -3,7 +3,7 @@ Run `npm install` to install dependencies
 
 Run `npm start` to run the server (`index.js`), hosted at localhost:8080
 
-You'll get an "Upgrade Required` message, meaning your client has to request a websocket upgrade.
+You'll see an "Upgrade Required` message if you go to localhost:8080 in your browser, meaning your client has to request a websocket upgrade.
 
 # Running the websocket interface
 Confirm that the server address (wsUri) in `client.html` matches localhost:8080. Then copy the file path, and paste the file path into browser of your choice to run it locally. For me the file path is `/Users/trishapan/Documents/code/websocket-server/client.html`
