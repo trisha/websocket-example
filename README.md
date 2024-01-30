@@ -14,3 +14,6 @@ P.S. You will have to refresh your HTML file/browser ever time you make a change
 
 <!-- Useful git notes: https://pow123.github.io/Getting-Started-Git/03-create/ -->
 <!-- Use npm config notes: https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/#part-2-create-the-backend -->
+
+Client preview:
+![screenshot of 3 browsers connected to the same socket](/client_preview.png)
