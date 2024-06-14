@@ -1,3 +1,6 @@
+# Context
+I created this because all the examples I could find online weren't working. You need both a websocket toggled client *and* a websocket enabled server in order for it to work, and the sample websocket server that I was trying to use (https://echo.websocket.org/) was offline at the time.
+
 # Running the websocket server
 Run `npm install` to install dependencies
 
